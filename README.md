@@ -48,8 +48,3 @@ Task4/
 5. The model is evaluated using accuracy and confusion matrix.
 6. Users can enter a custom message to check whether it is spam or not.
 
----
-
-## ▶ How to Run the Project
-
-1. Install required libraries:
